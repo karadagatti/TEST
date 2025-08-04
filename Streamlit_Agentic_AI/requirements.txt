@@ -1,0 +1,11 @@
+# requirements.txt
+streamlit
+pytesseract
+pdf2image
+opencv-python-headless
+Pillow
+scikit-learn
+python-dateutil
+joblib
+numpy
+pandas

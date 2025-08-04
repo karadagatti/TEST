@@ -1,0 +1,2 @@
+vendor,amount,predicted_activity,activity_confidence,predicted_category,category_confidence,needs_human_review
+"GREEN FIELD",115.9,Company Meeting,0.9054615557982879,Hotel Internal,0.7239863239902252,False
